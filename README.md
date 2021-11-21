@@ -7,10 +7,10 @@
 ## Results
 
 ### Results of Re-factoring 2017 Code
-insert pic
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
 
 ### Results of Re-factoring 2018 Code
-insert pic
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
 
 ### Challenges and Difficulties Encountered
 might not need this section
