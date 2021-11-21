@@ -1,12 +1,8 @@
-# stock-analysis
-module 2
-
-
 # Green Stocks Analysis
 
 ## Overview of Project
 
-### The purpose of this....
+### The purpose of this project was to evaluate the trading volume of all the stocks in a dataset. The VBA code was used to pull specific data from each ticker and output the total trading volume and the rate of return from the starting date to the closing date.  The script was also timed to see if it was improved to run more efficiently.
 
 ## Results
 
