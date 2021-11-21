@@ -10,10 +10,12 @@ The VBA code was used to pull specific data from each ticker and output the tota
 
 ### Results of Re-factoring 2017 Code
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
+
 ![Green_Stocks_2017](Resources/Green_Stocks_2017.png)
 
 ### Results of Re-factoring 2018 Code
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
+
 ![Green Stocks_2018](Resources/Green_Stocks_2018.png)
 
 ## Summary
