@@ -9,8 +9,12 @@ The VBA code was used to pull specific data from each ticker and output the tota
 ## Results
 
 ### Stock Performance
-2017 was a much better year for most of the stocks than 2018. While SPWR was had the highest volume of trades in 2017 and yielding a return of 23.1%
+Stocks performed much better in 2017 than the following year. While FSLR would have been a great pick in 2017 with high trading volumes and significant return yields, it did not fare so well in 2018. ENPH performed consistently for both years, with an increased volume in 2018 over 2017, and returns upwards of 80% both years
+
 ### Results of Re-factoring 2017 Code
+Refactored 2017
+![image](https://user-images.githubusercontent.com/93684851/143087895-9aa261c8-f787-4a56-b604-6d70010c3f08.png)
+
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
 
 ![Green_Stocks_2017](Resources/Green_Stocks_2017.PNG)
