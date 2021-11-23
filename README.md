@@ -8,6 +8,8 @@ The VBA code was used to pull specific data from each ticker and output the tota
 
 ## Results
 
+### Stock Performance
+2017 was a much better year for most of the stocks than 2018. While SPWR was had the highest volume of trades in 2017 and yielding a return of 23.1%
 ### Results of Re-factoring 2017 Code
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
 
@@ -22,4 +24,4 @@ The VBA code was used to pull specific data from each ticker and output the tota
 
 Refactoring code allows a developer to begin with an existing code and make modifications or edits to either clean it up or improve. You can condense or rearrange lines without changing the functionality of the code. One disadvantage is that if the code is large, you have to be careful that any changes made are consistent so that the code does not break.
 
-This particular script was functional at the end of the module.  When I began refactoring the code, I started getting errors because of different lines I had changed. I had to track those changes and make adjustmentsin order to restore the code to working order. Creating an index of the tickers allowed the code to loop through once and gather the requested data from each element in the array, instead of looping through each named element to gather the information, one at a time for 12 rounds.  The resulting code was much faster!
+This particular script was functional at the end of the module.  When I began refactoring the code, I started getting errors because of different lines I had changed. I had to track those changes and make adjustments in order to restore the code to working order. Creating an index of the tickers allowed the code to loop through once and gather the requested data from each element in the array, instead of looping through each named element to gather the information, one at a time for 12 rounds.  The resulting code was much faster!
